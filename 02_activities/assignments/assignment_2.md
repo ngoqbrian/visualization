@@ -16,10 +16,10 @@
         City and Colour: Income Inequality in Toronto (#VOTD) by JR Copreros
 
         This data visualization would be classified as GOOD because it is very intuitative and informative at first glance. 
-        Upon further inspection of the visualization, we can see that the informative provided is reproducible and accurate according to the data source used (Census 2016)
-        It also directly answers the question for those interested: Average income based on neighborhoods and race. (Would be relevant for discussions on income inequality and visible minorities)
-        Another great feature of this visualization is that it effectively shows the spatial relationships and patterns across different Toronto neighborhoods
-        Interactive elements help keep the reader engaged
+        Upon further inspection of the visualization, we can see that the informative provided is reproducible and accurate according to the data source used (Census 2016).
+        It also directly answers the question for those interested: Average income based on neighborhoods and race. (Would be relevant for discussions on income inequality and visible minorities).
+        Another great feature of this visualization is that it effectively shows the spatial relationships and patterns across different Toronto neighborhoods.
+        Interactive elements help keep the reader engaged.
 
       ```
     - How could this data visualization have been improved?  
@@ -41,23 +41,39 @@
 
         Los Angeles County- Korean BBQ Comparison by Rajesh
 
-        This data visualization would be classified as BAD because 
+        The creator has classified local Korean barbeque restaurants in the Los Angeles area in four categories:
+                1. More expensive than average and not as tasty
+                2. More expensive than average but tasty
+                3. Cheaper than average but not as tasty
+                4. Cheaper than average but tastier
 
-
-
-
-
+        While the idea behind this data visualization is interesting, it would be classified as BAD for several reasons:
+            -visual overload
+                -overwhelming at first glance
+                -unclear why colour scheme was used for data points
+                -dark background makes it difficult to read in contrast with the multiple data points
+            -search bar obstructs data points when in use
+            -inconsistent use of symbols
+                -unclear why usage of both circles and triangles to represent data points
+            -misleading due to lack of context, (how are the metrics for cost and average ratings calculated)
+            -accessibility
+                -since it relies heavily on the colours (red, yellow, orange), it can pose some challenges for certain users
+            -data source
+                -unclear where the data is being sourced form (is it reproducible?, since no data source is cited)
+                -questions about reliability and accuracy
 
       ```
     - How could this data visualization have been improved?  
       ```
-   
-
-
-
-
-
-      
+        This data visualization could be improved by:
+            -Improved accessibility
+                -using colour palettes that are more accessible to colourblind users
+                -increased font size for data points
+                -change background colour
+            -Improved context and data source
+                -provide data source, and information on how metrics for ratings and costs were calculated
+                    -overall being more transparent and reproducibile
+          
       ```
 
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
