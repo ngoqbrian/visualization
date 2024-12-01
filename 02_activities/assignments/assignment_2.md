@@ -8,9 +8,14 @@
 - To test your evaluation skills, locate two public data visualizations online, one good and one bad  
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like! 
 - For each visualization (good and bad):  
+    #### Good Visualization:
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+        https://public.tableau.com/app/profile/jrcopreros/viz/TorontoCityandColour/Final
+
+        City and Colour: Income Inequality in Toronto (#VOTD) by JR Copreros
+
+        This visualziation
 
 
 
@@ -21,7 +26,11 @@
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      This visualization could be improved through several methods:
+        -updating the data source
+            -instead of using the 2016 Population Census, use the more updated recent 2021 census available (even though a lot has changed since 2021 and now)
+        -increase accessibility through better colour selection/contrast
+            -large fonts and alternative text descriptions
 
 
 
@@ -30,6 +39,29 @@
 
       
       ```
+
+    #### Bad Visualization:
+    - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
+      ```
+        
+
+
+
+
+
+
+      ```
+    - How could this data visualization have been improved?  
+      ```
+   
+
+
+
+
+
+      
+      ```
+
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
 
