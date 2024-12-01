@@ -9,17 +9,18 @@
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like! 
 - For each visualization (good and bad):  
     #### Good Visualization:
+
+    https://public.tableau.com/app/profile/jrcopreros/viz/TorontoCityandColour/Final
+
+    City and Colour: Income Inequality in Toronto (#VOTD) by JR Copreros
+
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-        https://public.tableau.com/app/profile/jrcopreros/viz/TorontoCityandColour/Final
-        
-        City and Colour: Income Inequality in Toronto (#VOTD) by JR Copreros
-
-        This data visualization would be classified as GOOD because it is very intuitative and informative at first glance. 
-        Upon further inspection of the visualization, we can see that the informative provided is reproducible and accurate according to the data source used (Census 2016).
-        It also directly answers the question for those interested: Average income based on neighborhoods and race. (Would be relevant for discussions on income inequality and visible minorities).
-        Another great feature of this visualization is that it effectively shows the spatial relationships and patterns across different Toronto neighborhoods.
-        Interactive elements help keep the reader engaged.
+      This data visualization would be classified as GOOD because it is very intuitative and informative at first glance. 
+      Upon further inspection of the visualization, we can see that the informative provided is reproducible and accurate according to the data source used (Census 2016).
+      It also directly answers the question for those interested: Average income based on neighborhoods and race. (Would be relevant for discussions on income inequality and visible minorities).
+      Another great feature of this visualization is that it effectively shows the spatial relationships and patterns across different Toronto neighborhoods.
+      Interactive elements help keep the reader engaged.
 
       ```
     - How could this data visualization have been improved?  
@@ -35,19 +36,20 @@
       ```
 
     #### Bad Visualization:
+
+    https://public.tableau.com/app/profile/messidude/viz/LosAngelesCounty-KoreanBBQComparison/Dashboard1
+
+    Los Angeles County- Korean BBQ Comparison by Rajesh
+
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-        https://public.tableau.com/app/profile/messidude/viz/LosAngelesCounty-KoreanBBQComparison/Dashboard1
-
-        Los Angeles County- Korean BBQ Comparison by Rajesh
-
-        The creator has classified local Korean barbeque restaurants in the Los Angeles area in four categories:
+      The creator has classified local Korean barbeque restaurants in the Los Angeles area in four categories:
                 1. More expensive than average and not as tasty
                 2. More expensive than average but tasty
                 3. Cheaper than average but not as tasty
                 4. Cheaper than average but tastier
 
-        While the idea behind this data visualization is interesting, it would be classified as BAD for several reasons:
+      While the idea behind this data visualization is interesting, it would be classified as BAD for several reasons:
             -visual overload
                 -overwhelming at first glance
                 -unclear why colour scheme was used for data points
