@@ -5,21 +5,86 @@
 ### Requirements:
 - Let’s return to the data visualizations we evaluated for Assignment 2.  
 - For each visualization: 
+
+#### Good Visualization:
+
+https://public.tableau.com/app/profile/jrcopreros/viz/TorontoCityandColour/Final
+
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
         ```
-        Your answer...
+        Accessibile: Yes
+            -clear fonts and labels
+                -information is accessible to a general audience
+            -colour schema is appropriate for general audiences
 
+        Reproducible: Yes
+            -clear cititation of the data source is provided (Census 2016)
 
+        Equitable: Yes
+            -there is inclusive representation since the visualization effectively highlights disparities in income and minority populations
+                -equity focused design and supports systemic inequalities
+                
+        ```
+    - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
+        ```
+        Accessibile:
+            -incorporate a colour palette that is colourblind friendly (Viridis package)
+
+        Reproducible:
+            -provide methodology for analysis steps
+                -while the raw data is accessible, tracing the steps to recreate this analysis and visualization would increase reproducibility
+        
+        Equitable:
+            -potential bias due to lack of explanation and details on why certain neighborhoods in Toronto have income inequality (further perpetuating stereoptypes and misinterpretation)
+                -add additional data layers to provide a more holistic view of equity related issues and improve advocacy
+                    -level of education
+                    -employment rates
+
+        ```
+
+#### Bad Visualization:
+
+https://public.tableau.com/app/profile/messidude/viz/LosAngelesCounty-KoreanBBQComparison/Dashboard1
+
+    - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
+        ```
+        Accessible: No
+            -very cluttered and overwhelming
+                -not clear and interpretable visuals
+            -poor colour accessiblity due to choice of black background, and red, yellow, orange data points
+
+        Reproducible: No
+            -due to a lack of data transparency (no mention of where the data was sourced from), it would be very difficult to reproduce this visualization
+                -this also decreases credibility
+            -poor transparency on metrics
+                -how is cost calculated?
+                -are ratings averaged or weighted?
+
+        Equitable: No
+            -there is a lack of equitable focus since the visualization does not address disparities between restaurants accessibility or customer demographics
+            -while the visualization is for Los Angeles, it doesn't specify the neighborhoods or demographics (potential cultural preferences)
 
         ```
     - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
         ```
-        Your answer...
+        Accessible:
+            -use a colourblind friendly palette (Viridis package)
+            -use a lighter background instead of black, improve readability for all users
+            -remove the serach bar so that it is not obstructive
+                -could provide dynamic filtering options instead
+            -incorporate a balanced design
 
+        Reproducible:
+            -provide data sources and methodology so that users can reproduce the analysis
+                -explain how costs, ratings and reviews were calculated
 
+        Equitable:
+            -provide contextual explanations for why certain restaurants might have higher costs or better ratings
+                -cultural or location factors for possible variations
+            -provide equity-related insights
+                -accessibility and affordability trends
 
         ```
-
 - Word count should not exceed (as a maximum) 300 words for each visualization. 
 
 ### Why am I doing this assignment?:
