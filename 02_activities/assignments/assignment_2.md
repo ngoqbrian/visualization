@@ -12,16 +12,14 @@
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
         https://public.tableau.com/app/profile/jrcopreros/viz/TorontoCityandColour/Final
-
+        
         City and Colour: Income Inequality in Toronto (#VOTD) by JR Copreros
 
-        This visualziation
-
-
-
-
-
-
+        This data visualization would be classified as GOOD because it is very intuitative and informative at first glance. 
+        Upon further inspection of the visualization, we can see that the informative provided is reproducible and accurate according to the data source used (Census 2016)
+        It also directly answers the question for those interested: Average income based on neighborhoods and race. (Would be relevant for discussions on income inequality and visible minorities)
+        Another great feature of this visualization is that it effectively shows the spatial relationships and patterns across different Toronto neighborhoods
+        Interactive elements help keep the reader engaged
 
       ```
     - How could this data visualization have been improved?  
@@ -31,19 +29,19 @@
             -instead of using the 2016 Population Census, use the more updated recent 2021 census available (even though a lot has changed since 2021 and now)
         -increase accessibility through better colour selection/contrast
             -large fonts and alternative text descriptions
-
-
-
-
-
-
+        -non-technical users may not be used to interactive maps and may not know how to navigate it
+        -it is resource intensive, loading the data visualization requires significant processing for the interactive elements
       
       ```
 
     #### Bad Visualization:
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-        
+        https://public.tableau.com/app/profile/messidude/viz/LosAngelesCounty-KoreanBBQComparison/Dashboard1
+
+        Los Angeles County- Korean BBQ Comparison by Rajesh
+
+        This data visualization would be classified as BAD because 
 
 
 
