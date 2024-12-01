@@ -5,6 +5,11 @@
 ### Requirements:
 - Let’s return to the data visualizations we evaluated for Assignment 2.  
 - For each visualization: 
+
+#### Good Visualization:
+
+https://public.tableau.com/app/profile/jrcopreros/viz/TorontoCityandColour/Final
+
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
         ```
         Your answer...
@@ -20,6 +25,24 @@
 
         ```
 
+#### Bad Visualization:
+
+https://public.tableau.com/app/profile/messidude/viz/LosAngelesCounty-KoreanBBQComparison/Dashboard1
+
+    - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
+        ```
+        Your answer...
+
+
+
+        ```
+    - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
+        ```
+        Your answer...
+
+
+
+        ```
 - Word count should not exceed (as a maximum) 300 words for each visualization. 
 
 ### Why am I doing this assignment?:
