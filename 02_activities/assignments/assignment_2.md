@@ -8,28 +8,76 @@
 - To test your evaluation skills, locate two public data visualizations online, one good and one bad  
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like! 
 - For each visualization (good and bad):  
+    #### Good Visualization:
+
+    https://public.tableau.com/app/profile/jrcopreros/viz/TorontoCityandColour/Final
+
+    City and Colour: Income Inequality in Toronto (#VOTD) by JR Copreros
+
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
-
-
-
-
-
-
+      This data visualization would be classified as GOOD because it is very intuitative and informative at first glance. 
+      Upon further inspection of the visualization, we can see that the informative provided is reproducible and accurate according to the data source used (Census 2016).
+      It also directly answers the question for those interested: Average income based on neighborhoods and race. (Would be relevant for discussions on income inequality and visible minorities).
+      Another great feature of this visualization is that it effectively shows the spatial relationships and patterns across different Toronto neighborhoods.
+      Interactive elements help keep the reader engaged.
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
-
-
-
-
-
-
+      This visualization could be improved through several methods:
+        -updating the data source
+            -instead of using the 2016 Population Census, use the more updated recent 2021 census available (even though a lot has changed since 2021 and now)
+        -increase accessibility through better colour selection/contrast
+            -large fonts and alternative text descriptions
+        -non-technical users may not be used to interactive maps and may not know how to navigate it
+        -it is resource intensive, loading the data visualization requires significant processing for the interactive elements
       
       ```
+
+    #### Bad Visualization:
+
+    https://public.tableau.com/app/profile/messidude/viz/LosAngelesCounty-KoreanBBQComparison/Dashboard1
+
+    Los Angeles County- Korean BBQ Comparison by Rajesh
+
+    - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
+      ```
+      The creator has classified local Korean barbeque restaurants in the Los Angeles area in four categories:
+                1. More expensive than average and not as tasty
+                2. More expensive than average but tasty
+                3. Cheaper than average but not as tasty
+                4. Cheaper than average but tastier
+
+      While the idea behind this data visualization is interesting, it would be classified as BAD for several reasons:
+            -visual overload
+                -overwhelming at first glance
+                -unclear why colour scheme was used for data points
+                -dark background makes it difficult to read in contrast with the multiple data points
+            -search bar obstructs data points when in use
+            -inconsistent use of symbols
+                -unclear why usage of both circles and triangles to represent data points
+            -misleading due to lack of context, (how are the metrics for cost and average ratings calculated)
+            -accessibility
+                -since it relies heavily on the colours (red, yellow, orange), it can pose some challenges for certain users
+            -data source
+                -unclear where the data is being sourced form (is it reproducible?, since no data source is cited)
+                -questions about reliability and accuracy
+
+      ```
+    - How could this data visualization have been improved?  
+      ```
+        This data visualization could be improved by:
+            -Improved accessibility
+                -using colour palettes that are more accessible to colourblind users
+                -increased font size for data points
+                -change background colour
+            -Improved context and data source
+                -provide data source, and information on how metrics for ratings and costs were calculated
+                    -overall being more transparent and reproducibile
+          
+      ```
+
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
 
