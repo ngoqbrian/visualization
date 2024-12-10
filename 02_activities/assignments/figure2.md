@@ -6,7 +6,7 @@ Fire Incidents
 
 ### Distribution of Fire Incidents in Toronto:
 
-![figure2](image.png)
+![figure2](figure2.png)
 
 ### For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
