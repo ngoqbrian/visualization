@@ -1,13 +1,17 @@
 # Figure 1 Visualization
 
 ## Dataset:
+Fire Incidents:  
 https://open.toronto.ca/dataset/fire-incidents/  
-Fire Incidents
+
+
+Shapefiles:  
+https://open.toronto.ca/dataset/city-wards/  
+https://open.toronto.ca/dataset/regional-municipal-boundary/  
 
 ### Spatial Distribution of Fire Incidents Across Toronto City Wards
 
 ![alt text](figure1.png)
-
 
 ### For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
