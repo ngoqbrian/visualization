@@ -44,7 +44,9 @@ Fire Incidents
     For general public - raise awareness of fire risks and the types
 
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
-    
+    I chose features that would only be specifically required for this visualization and exlcuded the others.
+
+
     > What ‘underwater labour’ contributed to your final data visualization product?
     For this visualization, it was primarily done with SQL Querying, and exporting the data to Excel for visualization. From there, I completed the visualization with best practices. 
 
