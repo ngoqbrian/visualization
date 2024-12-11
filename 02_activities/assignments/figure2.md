@@ -4,13 +4,14 @@
 https://open.toronto.ca/dataset/fire-incidents/  
 Fire Incidents
 
-### Distribution of Fire Incidents in Toronto:
+### Distribution of Fire Types in Toronto:
 
 ![figure2](figure2.png)
 
 ### For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
     Excel (data queries by SQL)
+
     > Who is your intended audience? 
     -Fire Departments and Safety Teams  
     -City of Toronto Policy Teams for Urban Planning and Safety
